@@ -1,0 +1,55 @@
+{
+  "nombre": "TopChef",
+  "año": 2345,
+  "autores": [
+    "Miguel KiKO",
+    "Miguel"
+  ],
+  "recetas": [
+    {
+      "nombre": "Cazuela",
+      "autor": "Miguel KiKO",
+      "tiempo": 45,
+      "ingredientes": [
+        "Pollo",
+        "Caldo de pollo",
+        "Avecrem"
+      ],
+      "pasos": [
+        "Preparar y servir"
+      ]
+    },
+    {
+      "nombre": "Pollo al limon",
+      "autor": "Miguel",
+      "tiempo": 30,
+      "ingredientes": [
+        "Pollo",
+        "Limon",
+        "Vinagre de Arroz",
+        "Maicena"
+      ],
+      "pasos": [
+        "Freir el pollo",
+        "Rebozar",
+        "Mezclar",
+        "Servir"
+      ]
+    },
+    {
+      "nombre": "Canelones",
+      "autor": "Miguel KiKO",
+      "tiempo": 30,
+      "ingredientes": [
+        "Pasta en laminas",
+        "Tomate frito",
+        "Carne de ternera"
+      ],
+      "pasos": [
+        "Montar en capas",
+        "Meter en el horno",
+        "Servir con queso fundido"
+      ]
+    }
+  ]
+}

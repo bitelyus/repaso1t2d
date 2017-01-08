@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<receta>
+    <nombre>Pollo al limon</nombre>
+    <autor>Miguel</autor>
+    <tiempo>30</tiempo>
+    <ingrediente>Pollo</ingrediente>
+    <ingrediente>Limon</ingrediente>
+    <ingrediente>Vinagre de Arroz</ingrediente>
+    <ingrediente>Maicena</ingrediente>
+    <paso>Freir el pollo</paso>
+    <paso>Rebozar</paso>
+    <paso>Mezclar</paso>
+    <paso>Servir</paso>
+</receta>

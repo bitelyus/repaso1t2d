@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<receta>
+    <nombre>Macarrones</nombre>
+    <autor>MiK</autor>
+    <tiempo>25</tiempo>
+    <ingrediente>1 Bolsa de Macarrones</ingrediente>
+    <ingrediente>1 Paquete tomate frito</ingrediente>
+    <ingrediente>1 lata de atun</ingrediente>
+    <paso>Cocer los macarrones</paso>
+    <paso>Meclar con tomate y atun</paso>
+    <paso>Servir con queso rallado</paso>
+</receta>

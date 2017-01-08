@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libro>
+    <nombre>TopTen</nombre>
+    <año>2016</año>
+    <autor>Miguel KiKO</autor>
+    <autor>Miguel</autor>
+    <receta>
+        <nombre>Canelones</nombre>
+        <autor>Miguel KiKO</autor>
+        <tiempo>30</tiempo>
+        <ingrediente>Pasta en laminas</ingrediente>
+        <ingrediente>Tomate frito</ingrediente>
+        <ingrediente>Carne de ternera</ingrediente>
+        <paso>Montar en capas</paso>
+        <paso>Meter en el horno</paso>
+        <paso>Servir con queso fundido</paso>
+    </receta>
+    <receta>
+        <nombre>Pollo al limon</nombre>
+        <autor>Miguel</autor>
+        <tiempo>30</tiempo>
+        <ingrediente>Pollo</ingrediente>
+        <ingrediente>Limon</ingrediente>
+        <ingrediente>Vinagre de Arroz</ingrediente>
+        <ingrediente>Maicena</ingrediente>
+        <paso>Freir el pollo</paso>
+        <paso>Rebozar</paso>
+        <paso>Mezclar</paso>
+        <paso>Servir</paso>
+    </receta>
+    <receta>
+        <nombre>Cazuela</nombre>
+        <autor>Miguel KiKO</autor>
+        <tiempo>45</tiempo>
+        <ingrediente>Pollo</ingrediente>
+        <ingrediente>Caldo de pollo</ingrediente>
+        <ingrediente>Avecrem</ingrediente>
+        <paso>Preparar y servir</paso>
+    </receta>
+</libro>

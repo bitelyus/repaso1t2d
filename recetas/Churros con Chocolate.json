@@ -1,0 +1,14 @@
+{
+  "nombre": "Churros con Chocolate",
+  "autor": "Miguel KiKO",
+  "tiempo": 34,
+  "ingredientes": [
+    "Churros",
+    "Chocolate",
+    "Leche"
+  ],
+  "pasos": [
+    "Comprar churros",
+    "Freir y mojar en el chocolate"
+  ]
+}

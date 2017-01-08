@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libro>
+    <nombre>TopRecetasSP</nombre>
+    <año>2015</año>
+    <autor>Miguel KiKO</autor>
+    <receta>
+        <nombre>Canelones</nombre>
+        <autor>Miguel KiKO</autor>
+        <tiempo>30</tiempo>
+        <ingrediente>Pasta en laminas</ingrediente>
+        <ingrediente>Tomate frito</ingrediente>
+        <ingrediente>Carne de ternera</ingrediente>
+        <paso>Montar en capas</paso>
+        <paso>Meter en el horno</paso>
+        <paso>Servir con queso fundido</paso>
+    </receta>
+    <receta>
+        <nombre>Pollo al Chilindron</nombre>
+        <autor>Miguel KiKO</autor>
+        <tiempo>45</tiempo>
+        <ingrediente>Pollo</ingrediente>
+        <ingrediente>Chilindros</ingrediente>
+        <ingrediente>Picante</ingrediente>
+        <paso>Cocer el pollo</paso>
+        <paso>Mezclar con chilindron</paso>
+        <paso>Servir</paso>
+        <paso>Comer</paso>
+        <paso>Repetir</paso>
+    </receta>
+</libro>

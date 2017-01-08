@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<receta>
+    <nombre>Cazuela</nombre>
+    <autor>Miguel KiKO</autor>
+    <tiempo>45</tiempo>
+    <ingrediente>Pollo</ingrediente>
+    <ingrediente>Caldo de pollo</ingrediente>
+    <ingrediente>Avecrem</ingrediente>
+    <paso>Preparar y servir</paso>
+</receta>

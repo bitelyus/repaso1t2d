@@ -1,0 +1,17 @@
+{
+  "nombre": "Pollo al Chilindron",
+  "autor": "Miguel KiKO",
+  "tiempo": 45,
+  "ingredientes": [
+    "Pollo",
+    "Chilindros",
+    "Picante"
+  ],
+  "pasos": [
+    "Cocer el pollo",
+    "Mezclar con chilindron",
+    "Servir",
+    "Comer",
+    "Repetir"
+  ]
+}

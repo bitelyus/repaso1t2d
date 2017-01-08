@@ -1,0 +1,15 @@
+{
+  "nombre": "Canelones",
+  "autor": "Miguel KiKO",
+  "tiempo": 30,
+  "ingredientes": [
+    "Pasta en laminas",
+    "Tomate frito",
+    "Carne de ternera"
+  ],
+  "pasos": [
+    "Montar en capas",
+    "Meter en el horno",
+    "Servir con queso fundido"
+  ]
+}

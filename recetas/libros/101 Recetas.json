@@ -1,0 +1,24 @@
+{
+  "nombre": "101 Recetas",
+  "año": 2016,
+  "autores": [
+    "MiK"
+  ],
+  "recetas": [
+    {
+      "nombre": "Macarrones",
+      "autor": "MiK",
+      "tiempo": 25,
+      "ingredientes": [
+        "1 Bolsa de Macarrones",
+        "1 Paquete tomate frito",
+        "1 lata de atun"
+      ],
+      "pasos": [
+        "Cocer los macarrones",
+        "Meclar con tomate y atun",
+        "Servir con queso rallado"
+      ]
+    }
+  ]
+}
